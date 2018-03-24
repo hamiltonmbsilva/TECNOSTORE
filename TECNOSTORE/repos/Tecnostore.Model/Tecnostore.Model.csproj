@@ -73,9 +73,12 @@
     <Compile Include="DB\Model\Cliente.cs" />
     <Compile Include="DB\Model\Endereco.cs" />
     <Compile Include="DB\Model\User.cs" />
+    <Compile Include="DB\Repository\ClienteRepository.cs" />
+    <Compile Include="DB\Repository\EnderecoRepository.cs" />
     <Compile Include="DB\Repository\RepositoryBase.cs" />
     <Compile Include="DB\Repository\UserRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ultil\LoginUltils.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

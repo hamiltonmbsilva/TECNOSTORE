@@ -17,3 +17,22 @@ E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Mo
 E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
 E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
 E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csprojResolveAssemblyReference.cache
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll.config
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.pdb
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.xml

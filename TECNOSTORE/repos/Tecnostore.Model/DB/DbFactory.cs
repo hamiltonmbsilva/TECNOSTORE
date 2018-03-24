@@ -24,12 +24,17 @@ namespace Tecnostore.Model.DB
         private ISessionFactory _sessionFactory;
 
         public UserRepository UserRepository { get; set; }
+        public ClienteRepository ClienteRepository { get; set; }
+        public EnderecoRepository EnderecoRepository { get; set; }
 
         private DbFactory()
         {
             Conexao();
 
             this.UserRepository = new UserRepository(this.Session);
+            this.ClienteRepository = new ClienteRepository(this.Session);
+            this.EnderecoRepository = new EnderecoRepository(this.Session);
+
         }
 
         public static DbFactory Instance // me retortna a instancia do objeto
@@ -53,7 +58,7 @@ namespace Tecnostore.Model.DB
                 var port = "3306";
                 var dbName = "db_Tecnostore";
                 var user = "root";
-                var psw = "root";
+                var psw = "247845";
 
                 var stringConexao = "Persist Security Info=False;" +
                                     "server=" + server +
