@@ -14,7 +14,7 @@ namespace Tecnostore.Controllers
         // GET: User
         public ActionResult CadastrarUser()
         {
-            return View( new User());
+            return View(new User());
         }
 
         public ActionResult EntrarUser()
