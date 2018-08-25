@@ -1,86 +1,1022 @@
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll.config
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.pdb
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Web.Infrastructure.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Deployment.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Razor.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\NHibernate.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.pdb
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll.config
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Deployment.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Razor.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\NHibernate.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Razor.resources.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.resources.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.Razor.resources.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Helpers.resources.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Mvc.resources.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csprojResolveAssemblyReference.cache
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CoreCompileInputs.cache
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.pdb
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll.config
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.pdb
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Web.Infrastructure.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Deployment.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Razor.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\NHibernate.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.pdb
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll.config
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Deployment.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Razor.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\NHibernate.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Razor.resources.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.resources.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.Razor.resources.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Helpers.resources.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Mvc.resources.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csprojResolveAssemblyReference.cache
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CoreCompileInputs.cache
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.pdb
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csprojResolveAssemblyReference.cache
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CoreCompileInputs.cache
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll.config
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.pdb
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\itextsharp.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Web.Infrastructure.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Owin.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Deployment.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Razor.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\NHibernate.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.pdb
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll.config
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.pdb
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\itextsharp.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Deployment.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Razor.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\NHibernate.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Razor.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.pdb
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll.config
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.pdb
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\itextsharp.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Web.Infrastructure.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Owin.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Deployment.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Razor.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\NHibernate.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.pdb
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll.config
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.pdb
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\itextsharp.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Deployment.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Webpages.Razor.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\NHibernate.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Razor.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csprojAssemblyReference.cache
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CoreCompileInputs.cache
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CopyComplete
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.pdb
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationInsights.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Client.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Core.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Server.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Common.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.Common.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\WebGrease.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe.config
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.rsp
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe.config
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.rsp
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.AppContext.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Collections.Immutable.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Console.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Compression.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Reflection.Metadata.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.AccessControl.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Claims.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.ValueTuple.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe.config
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.rsp
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\ApplicationInsights.config
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll.config
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.pdb
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe.config
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.rsp
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe.config
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.rsp
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.AppContext.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Console.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe.config
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.rsp
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\ImageResizer.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\itextsharp.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Web.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Client.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Core.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Server.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Common.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.Common.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\NHibernate.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Owin.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\WebGrease.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.pdb
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll.config
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\ImageResizer.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\itextsharp.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Web.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\NHibernate.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csprojAssemblyReference.cache
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CoreCompileInputs.cache
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CopyComplete
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.pdb
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.Extensions.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.Extensions.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\ApplicationInsights.config
+D:\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll.config
+D:\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.pdb
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe.config
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.rsp
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe.config
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.rsp
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.AppContext.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Collections.Immutable.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Console.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Compression.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Reflection.Metadata.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.AccessControl.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Claims.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.ValueTuple.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe.config
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.rsp
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe
+D:\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe.config
+D:\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\ImageResizer.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\itextsharp.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Web.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.WindowsServer.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationInsights.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Server.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Web.Infrastructure.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Common.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\NHibernate.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Owin.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.Extensions.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Deployment.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Razor.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\WCFExtrasPlus.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\WebGrease.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.pdb
+D:\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll.config
+D:\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\ImageResizer.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\itextsharp.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Web.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.WindowsServer.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\NHibernate.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.Extensions.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Deployment.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Razor.xml
+D:\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Helpers.resources.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Mvc.resources.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Razor.resources.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.resources.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csprojAssemblyReference.cache
+D:\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CoreCompileInputs.cache
+D:\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CopyComplete
+D:\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.dll
+D:\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.pdb
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\ApplicationInsights.config
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll.config
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.pdb
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe.config
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.rsp
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe.config
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.rsp
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.AppContext.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Collections.Immutable.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Console.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Compression.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Reflection.Metadata.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.AccessControl.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Claims.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.ValueTuple.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe.config
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.rsp
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe.config
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\ImageResizer.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\itextsharp.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Web.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.WindowsServer.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationInsights.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Server.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Web.Infrastructure.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Common.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\NHibernate.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Owin.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.Extensions.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Deployment.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Razor.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\WCFExtrasPlus.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\WebGrease.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.pdb
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll.config
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\ImageResizer.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\itextsharp.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Web.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.WindowsServer.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\NHibernate.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.Extensions.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Deployment.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Razor.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Helpers.resources.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Mvc.resources.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Razor.resources.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.resources.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csprojAssemblyReference.cache
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CoreCompileInputs.cache
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CopyComplete
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.pdb
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\ApplicationInsights.config
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll.config
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.pdb
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe.config
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.rsp
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe.config
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.rsp
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.AppContext.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Collections.Immutable.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Console.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Compression.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Reflection.Metadata.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.AccessControl.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Claims.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.ValueTuple.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe.config
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.rsp
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe.config
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\ImageResizer.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\itextsharp.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Web.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.WindowsServer.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationInsights.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Server.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Web.Infrastructure.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Common.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\NHibernate.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Owin.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.Extensions.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Deployment.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Razor.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\WCFExtrasPlus.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\WebGrease.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.pdb
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll.config
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\ImageResizer.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\itextsharp.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Web.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.WindowsServer.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\NHibernate.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.Extensions.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Deployment.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Razor.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Helpers.resources.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Mvc.resources.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Razor.resources.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.resources.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csprojAssemblyReference.cache
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CoreCompileInputs.cache
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CopyComplete
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.pdb
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\ApplicationInsights.config
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll.config
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.pdb
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.exe.config
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csc.rsp
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.exe.config
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\csi.rsp
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.AppContext.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Collections.Immutable.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Console.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Compression.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.IO.Pipes.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.AccessControl.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Claims.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.ValueTuple.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.exe.config
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\vbc.rsp
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\roslyn\VBCSCompiler.exe.config
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\ImageResizer.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\itextsharp.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Web.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.WindowsServer.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationInsights.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Client.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Core.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.ApplicationServer.Caching.Server.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Web.Infrastructure.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Common.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.Common.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.WindowsFabric.Data.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\NHibernate.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Owin.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.Extensions.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Deployment.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Razor.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\WCFExtrasPlus.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\WebGrease.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.pdb
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Tecnostore.Model.dll.config
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Antlr3.Runtime.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\EntityFramework.SqlServer.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Google.Protobuf.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Iesi.Collections.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\ImageResizer.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\itextsharp.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.DependencyCollector.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.Web.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AI.WindowsServer.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Google.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\MySql.Data.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Newtonsoft.Json.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\NHibernate.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\Remotion.Linq.EagerFetching.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Net.Http.Formatting.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Helpers.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.Owin.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Http.WebHost.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Mvc.Extensions.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Optimization.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.Razor.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Deployment.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\System.Web.WebPages.Razor.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.Razor.resources.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csprojAssemblyReference.cache
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CoreCompileInputs.cache
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.csproj.CopyComplete
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore\obj\Debug\Tecnostore.pdb

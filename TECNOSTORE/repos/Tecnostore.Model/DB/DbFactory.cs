@@ -24,20 +24,52 @@ namespace Tecnostore.Model.DB
         private ISessionFactory _sessionFactory;
 
         public UserRepository UserRepository { get; set; }
-        public ClienteRepository ClienteRepository { get; set; }
+        public ComentarioRepository ComentarioRepository { get; set; }
         public EnderecoRepository EnderecoRepository { get; set; }
+        public ProdutoRepository ProdutoRepository { get; set; }
+        public TipoProdutoRepository TipoProdutoRepository { get; set; }
+        public PesquisaRepository PesquisaRepository { get; set; }
+        public ImagemRepository ImagemRepository { get; set; }
+        public CarrinhoRepository CarrinhoRepository { get; set; }
+        public CarrinhoProdutoRepository CarrinhoProdutoRepository { get; set; }
+        public CategoriaRepository CategoriaRepository { get; set; }
+        public DescontoRepository DescontoRepository { get; set; }
+        public EstoqueRepository EstoqueRepository { get; set; }
+        public VendaRepository VendaRepository { get; set; }
+        public FormaPagamentoRepository FormaPagamentoRepository { get; set; }
+        public ItemVendaRepository ItemVendaRepository { get; set; }
+
 
         private DbFactory()
         {
-            Conexao();
+            Conectar();
 
             this.UserRepository = new UserRepository(this.Session);
-            this.ClienteRepository = new ClienteRepository(this.Session);
+            this.ComentarioRepository = new ComentarioRepository(this.Session);
             this.EnderecoRepository = new EnderecoRepository(this.Session);
+            this.ProdutoRepository = new ProdutoRepository(this.Session);
+            this.TipoProdutoRepository = new TipoProdutoRepository(this.Session);
+            this.PesquisaRepository = new PesquisaRepository(this.Session);
+            this.ImagemRepository = new ImagemRepository(this.Session);
+            this.CarrinhoRepository = new CarrinhoRepository(this.Session);
+            this.CarrinhoProdutoRepository = new CarrinhoProdutoRepository(this.Session);
+            this.CategoriaRepository = new CategoriaRepository(this.Session);
+            this.DescontoRepository = new DescontoRepository(this.Session);
+            this.EstoqueRepository = new EstoqueRepository(this.Session);
+            this.VendaRepository = new VendaRepository(this.Session);
+            this.FormaPagamentoRepository = new FormaPagamentoRepository(this.Session);
+            this.ItemVendaRepository = new ItemVendaRepository(this.Session);
 
         }
 
-        public static DbFactory Instance // me retortna a instancia do objeto
+        //public static DbFactory Instance => _instance ?? (_instance = new DbFactory());
+
+        public void Initialize(object obj)
+        {
+            NHibernateUtil.Initialize(obj);
+        }
+
+        public static DbFactory Instance  // me retortna a instancia do objeto
         {
             get
             {
@@ -50,7 +82,7 @@ namespace Tecnostore.Model.DB
             }
         }
 
-        private void Conexao()
+        private void Conectar()
         {
             try
             {
@@ -60,36 +92,55 @@ namespace Tecnostore.Model.DB
                 var user = "root";
                 var psw = "247845";
 
-                var stringConexao = "Persist Security Info=False;" +
-                                    "server=" + server +
-                                    ";port=" + port +
-                                    ";database=" + dbName +
-                                    ";uid=" + user +
-                                    ";pwd=" + psw;
+                //var stringConexao = "Persist Security Info=False;" +
+                //                    "server=" + server +
+                //                    ";port=" + port +
+                //                    ";database=" + dbName +
+                //                    ";uid=" + user +
+                //                    ";pwd=" + psw;                                      
+                //                    //";SslMode= + none;
+                //                     //   ssl: true,
+
+                var stringConexao = "Server="+ server + 
+                                    ";Port="+ port +
+                                    ";Database=" + dbName +
+                                    ";Uid=" + user +
+                                    ";Pwd="+ psw + ";SslMode=none;";
+
+                var mySql = new MySqlConnection(stringConexao);
 
                 try
                 {
-                    var mysql = new MySqlConnection();
-                    mysql.Open(); 
+                    //var mysql = new MySqlConnection();
+                    //mysql.Open(); 
 
-                    if (mysql.State == ConnectionState.Open)
-                    {
-                        mysql.Close();
-                    }
+                    //if (mysql.State == ConnectionState.Open)
+                    //{
+                    //    mysql.Close();
+                    //}
+                    mySql.Open();
                 }
 
                 catch
                 {
-                    
+
                     CriarSchema(server, port, dbName, psw, user);
+                }
+                finally
+                {
+                    if (mySql.State == ConnectionState.Open)
+                    {
+                        mySql.Close();
+                    }
                 }
 
                 ConfigurarNHibernate(stringConexao);
             }
+
             catch (Exception ex)
             {
                 
-                throw new Exception("Nao foi possivel conectar", ex);
+                throw new Exception("Nao foi possivel conectar no banco de dados", ex);
             }
         }
 
@@ -98,13 +149,15 @@ namespace Tecnostore.Model.DB
             
             try
             {
-                var stringConexao = "server=" + server +
-                   ";user=" + user +
-                   ";port=" + port +
-                   ";password=" + psw + ";";
+
+                var stringConexao = "Server=" + server +
+                                    ";Port=" + port + 
+                                    ";Uid=" + user +
+                                    ";Pwd=" + psw + ";SslMode=none;";
 
                 var mySql = new MySqlConnection(stringConexao);
-                var cmd = mySql.CreateCommand(); // vai tentar conectar com o mysql, nao com um banco especifico
+                // vai tentar conectar com o mysql, nao com um banco especifico
+                var cmd = mySql.CreateCommand();
 
                 mySql.Open();
                 cmd.CommandText = "CREATE DATABASE IF NOT EXISTS `" + dbName + "`;";
@@ -114,15 +167,21 @@ namespace Tecnostore.Model.DB
             }
             catch (Exception ex)
             {
-                throw new Exception("Não deu para criar o Schema!", ex);
+                throw new Exception("Não foi criar o banco de dados.", ex);
             }
         }
 
         private void ConfigurarNHibernate(string stringConexao)
         {
+            //Cria a configuração com o NH
+            var config = new Configuration();
+
             try
             {
-                var config = new Configuration(); // using nHibernate config
+                //var config = new Configuration(); // using nHibernate config
+
+                //Exibição de SQL no console
+                //ConfigureLog4Net();
 
                 //Configuração do NHibernate
 
@@ -157,14 +216,12 @@ namespace Tecnostore.Model.DB
                 {
                     config.CurrentSessionContext<ThreadStaticSessionContext>();
                 }
-
                 else
                 {
                     config.CurrentSessionContext<WebSessionContext>();
                 }
 
                 this._sessionFactory = config.BuildSessionFactory();
-
             }
             catch (Exception ex)
             {
@@ -173,8 +230,7 @@ namespace Tecnostore.Model.DB
         }
 
         private HbmMapping Mapeamento()
-        {
-            
+        {            
             try
             {
                 var mapper = new ModelMapper();
@@ -182,13 +238,11 @@ namespace Tecnostore.Model.DB
                 // Para o NHibernate com apenas um objeto(Uma classe, nesse cado so uma: Esporte ou outra)
                 // mapper.AddMapping(EsporteMap);
 
-
-
                 mapper.AddMappings(
                     Assembly.GetAssembly(typeof(UserMap)).GetTypes()
-                    );
-                return mapper.CompileMappingForAllExplicitlyAddedEntities();
+                );
 
+                return mapper.CompileMappingForAllExplicitlyAddedEntities();
             }
             catch (Exception ex)
             {
@@ -227,7 +281,6 @@ namespace Tecnostore.Model.DB
         {
             this.Session.Clear();
         }
-
        
     }
 }

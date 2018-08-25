@@ -1,38 +1,338 @@
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll.config
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.pdb
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.xml
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csprojResolveAssemblyReference.cache
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
-E:\COMERCIO ELETRONICO\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csprojResolveAssemblyReference.cache
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll.config
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.pdb
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.dll
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.xml
-D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\Trabalho Comercio Eletronico\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csprojResolveAssemblyReference.cache
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll.config
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.pdb
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.xml
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\pt-br\System.Web.Helpers.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\pt-br\System.Web.Razor.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
+D:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll.config
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.pdb
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.xml
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\pt-br\System.Web.Helpers.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\pt-br\System.Web.Razor.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csprojAssemblyReference.cache
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CopyComplete
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
+E:\Facudade Vianna Junior\3 Terceiro Semestre\Comercio Eletronico\trabalho C#\Trabalho Tecnostore\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll.config
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.pdb
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csprojAssemblyReference.cache
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CopyComplete
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
+C:\Users\Hamil\Desktop\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll.config
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.pdb
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.xml
+D:\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csprojAssemblyReference.cache
+D:\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
+D:\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CopyComplete
+D:\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
+D:\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll.config
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.pdb
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.xml
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csprojAssemblyReference.cache
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CopyComplete
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
+D:\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll.config
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.pdb
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.xml
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csprojAssemblyReference.cache
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CopyComplete
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
+D:\E-Commecer\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll.config
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Tecnostore.Model.pdb
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Antlr3.Runtime.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Google.Protobuf.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Iesi.Collections.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\itextsharp.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\MySql.Web.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\NHibernate.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Helpers.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.Razor.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.Data.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\bin\Debug\WebMatrix.WebData.xml
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csprojAssemblyReference.cache
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CoreCompileInputs.cache
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.csproj.CopyComplete
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.dll
+D:\Portifolio Site\TECNOSTORE - 3.3\TECNOSTORE - 2.9\TECNOSTORE\repos\Tecnostore.Model\obj\Debug\Tecnostore.Model.pdb
